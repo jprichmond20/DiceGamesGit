@@ -1,4 +1,4 @@
-package edu.coe.hughes;
+package edu.coe.richmond;
 
 public class Craps {
     private Dice d1;
